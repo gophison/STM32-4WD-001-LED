@@ -1,0 +1,15 @@
+*
+!/CMSIS/
+!/CMSIS/**/*
+
+!/FWlib/
+!/FWlib/**/*
+
+!/Source/
+!/Source/**/*
+
+!.gitignore
+!*.txt
+!*.ini
+!*.lst
+!*.BAT
